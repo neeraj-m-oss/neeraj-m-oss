@@ -1,4 +1,4 @@
-## Portfolio Bio
+## Hi, I’m Neeraj!
 
 <!--
 **neeraj-m-oss/neeraj-m-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hi, I’m Neeraj!
-
 I’m a junior studying IT Infrastructure at the University of Minnesota with a strong interest in health informatics and healthcare IT systems. I’m particularly interested in how infrastructure, accessibility, and system design impact clinical workflows and patient access to care.
 
 I currently work in digital accessibility and volunteer as a Digital Navigator, which has shaped my focus on building reliable, usable, and equitable technology in healthcare settings.
