@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a junior studying IT Infrastructure at the University of Minnesota with a strong interest in health informatics and healthcare IT systems. I’m particularly interested in how infrastructure, accessibility, and system design impact clinical workflows and patient access to care.
+I’m a junior studying IT Infrastructure at the University of Minnesota with a strong interest in healthcare IT. I’m interested in how infrastructure, accessibility, and system design impact clinical workflows and patient access to care.
 
-I currently work in digital accessibility and volunteer as a Digital Navigator, which has shaped my focus on building reliable, usable, and equitable technology in healthcare settings.
+I currently work in digital accessibility for the UMN School of Dentistry and volunteer as a Digital Navigator for Fairview, which has helped me learn more about on building reliable, usable, and equitable technology in healthcare settings.
 
-I’m interested in collaborating on healthcare-related IT projects, accessibility-focused tools, and systems or infrastructure work. I’m pursuing a career in health informatics and healthcare IT.
+On Github, I’m interested in working on healthcare-related IT projects that will help me pursue a career in healthcare IT!
